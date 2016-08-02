@@ -1,6 +1,5 @@
 restaurants = [
     "All american steak house",
-    "Peruvian place",
     "Toltecos",
     "Not your average joe's",
     "Firebird",
