@@ -15,7 +15,7 @@ restaurants = [
     "Cock and Bowl",
     "Bottle Stop",
     "Secret Garden Cafe",
-    "Cheesecake factory",
+    "Cheesecake Factory",
     "Hemibry",
     "Dixie Bones",
     "Smokey Bones",
