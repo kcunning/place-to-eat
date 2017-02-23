@@ -25,6 +25,7 @@ restaurants = [
     "Matchbox",
     "The Knife",
     "Sakura",
+    "Armetta's",
 ]
 
 var r = restaurants[Math.floor(Math.random() * restaurants.length)];
